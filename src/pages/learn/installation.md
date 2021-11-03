@@ -1,5 +1,7 @@
 ---
 title: 安装
+translators:
+- ChelesteWang
 ---
 
 <Intro>
